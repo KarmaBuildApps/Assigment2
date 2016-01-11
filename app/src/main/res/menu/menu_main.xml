@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_setting"
+        android:orderInCategory="100"
+        android:title="Setting"
+        app:showAsAction="never" />
+   <!-- <item
+        android:id="@+id/action_Logo"
+        android:icon="@drawable/logo"
+        android:orderInCategory="101"
+        android:title="Logo"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_wishlist"
+        android:icon="@drawable/wishlist"
+        android:orderInCategory="102"
+        android:title="Wish List"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_basket"
+        android:icon="@drawable/basket"
+        android:orderInCategory="103"
+        android:title="basket"
+        app:showAsAction="always" />
+        -->
+</menu>

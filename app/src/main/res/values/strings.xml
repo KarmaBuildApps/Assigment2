@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASOS Online Basic</string>
+    <string name="asos_logo">ASOS Logo</string>
+    <string name="back_button">Back</string>
+    <string name="shopping_basket">Basket</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_closed">Close</string>
+    <string name="testTextShop">5</string>
+</resources>
